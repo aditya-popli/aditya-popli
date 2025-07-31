@@ -44,10 +44,6 @@ Because light attracts bugs! 🐛✨
 
 <table>
 <tr>
-  <td>🎲</td>
-  <td><strong>Random Fact Generator</strong></td>
-</tr>
-<tr>
   <td>🧠</td>
   <td>I can translate brain waves into text (seriously!)</td>
 </tr>
@@ -65,7 +61,7 @@ Because light attracts bugs! 🐛✨
 </tr>
 <tr>
   <td>☕</td>
-  <td>Coffee-to-code conversion rate: 1 cup = 100 lines</td>
+  <td>Scale mountain peaks wearing Crocs</td>
 </tr>
 </table>
 
@@ -155,11 +151,7 @@ Because light attracts bugs! 🐛✨
 <summary>🎧 What I code to (click me!)</summary>
 
 
-♪ Lo-fi Hip Hop Radio - beats to code to
-♪ Interstellar Soundtrack - for deep debugging sessions  
-♪ Synthwave - when building something cool
-♪ Nature Sounds - during algorithm design
-♪ Complete Silence - when the bug is really stubborn
+♪ Karan Aujla
 
 
 </details>
@@ -193,14 +185,13 @@ Because light attracts bugs! 🐛✨
 
 <div align="center">
 
-'''
+
 while (alive) {
     eat();
     sleep();
     code();
     repeat();
-    
-'''
+}
 
 </div>
 
