@@ -193,24 +193,14 @@ Because light attracts bugs! 🐛✨
 
 <div align="center">
 
-javascript
+'''
 while (alive) {
     eat();
     sleep();
     code();
     repeat();
     
-    if (coffee.isEmpty()) {
-        refill();
-    }
-    
-    if (bugs.length > 0) {
-        debug();
-    } else {
-        celebrate(); 🎉
-    }
-}
-
+'''
 
 </div>
 
