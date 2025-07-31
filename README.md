@@ -1,15 +1,8 @@
-# GitHub Profile README
 
-markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&width=600&lines=Hi+I'm+Aditya+Popli!;Welcome+to+my+Digital+Universe!;Let's+Code+Something+Amazing+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=adityapopli&color=brightgreen&style=flat-square&label=Profile+Views)
-  
-</div>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge&logo=google-chrome" /></a>
